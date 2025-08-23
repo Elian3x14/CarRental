@@ -1,47 +1,57 @@
+<!--title-->
+
 # CarRental  
-> Midterm Project for .NET Technology  
 
-# Preview  
+<!--/title-->
 
-## 1. Login  
-![](./previewImages/login-form.png)  
+Midterm Project for .NET Technology  
 
-## 2. Car List  
-![](./previewImages/car.png)  
+## Preview  
 
-## 3. Create a New Car  
-![](./previewImages/car-add.png)  
+### 1. Login  
+![login](./previewImages/login-form.png)  
 
-## 4. Create an Order  
-![](./previewImages/booking-add.png)    
+### 2. Car List  
+![list-car](./previewImages/car.png)  
 
-## 5. Statistics  
+### 3. Create a New Car  
+![add-car](./previewImages/car-add.png)  
+
+### 4. Create an Order  
+![booking-add](./previewImages/booking-add.png)    
+
+### 5. Statistics  
 
 > I accidentally deleted the sample data, please download it and add it back. :3
 
-![](./previewImages/report.png)  
+![report](./previewImages/report.png)  
 
-## PreviewImages for more...  
+*PreviewImages for more...*  
 
-# Project  
+## Project  
 
-## 1. Problem Statement (Available in the "doc" folder)  
+### 1. Problem Statement   
 
-## 2. Project Structure  
+(Available in the "doc" folder)
 
-### 2.1 Entities  
-> Contains the entity objects to be managed  
+### 2. Project Structure  
 
-### 2.2 Exceptions  
-> Contains custom exceptions for handling errors  
+#### 2.1 Entities  
 
-### 2.3 Forms  
-> Contains forms for modifying data  
+Contains the entity objects to be managed  
 
-### 2.4 Helper  
-> Contains utility/helper classes  
+#### 2.2 Exceptions  
+Contains custom exceptions for handling errors  
 
-### 2.5 AppSetting.cs  
+#### 2.3 Forms  
+Contains forms for modifying data  
+
+#### 2.4 Helper  
+Contains utility/helper classes  
+
+#### 2.5 AppSetting.cs  
+
+Contain setting class for this application
 
 # How to Run the Code  
 

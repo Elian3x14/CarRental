@@ -7,16 +7,19 @@
 ![](./previewImages/login-form.png)  
 
 ## 2. Car List  
-![](./previewImages/Screenshot%202024-02-21%20202934.png)  
+![](./previewImages/car.png)  
 
 ## 3. Create a New Car  
-![](./previewImages/Screenshot%202024-02-21%20202949.png)  
+![](./previewImages/car-add.png)  
 
 ## 4. Create an Order  
-![](./previewImages/Screenshot%202024-02-21%20203017.png)  
+![](./previewImages/booking-add.png)    
 
 ## 5. Statistics  
-![](./previewImages/Screenshot%202024-02-21%20203036.png)  
+
+> I accidentally deleted the sample data, please download it and add it back. :3
+
+![](./previewImages/report.png)  
 
 ## PreviewImages for more...  
 

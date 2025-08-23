@@ -4,19 +4,19 @@
 # Preview  
 
 ## 1. Login  
-<img src="previewImages/Screenshot 2024-02-21 134642.png" alt="previews" width="250" />  
+![](./previewImages/Screenshot%202024-02-21%20134642.png)  
 
 ## 2. Car List  
-<img src="previewImages/Screenshot 2024-02-21 202934.png" alt="previews" width="250" />  
+![](./previewImages/Screenshot%202024-02-21%20202934.png)  
 
 ## 3. Create a New Car  
-<img src="previewImages/Screenshot 2024-02-21 202949.png" alt="previews" width="250" />  
+![](./previewImages/Screenshot%202024-02-21%20202949.png)  
 
 ## 4. Create an Order  
-<img src="previewImages/Screenshot 2024-02-21 203017.png" alt="previews" width="250" />  
+![](./previewImages/Screenshot%202024-02-21%20203017.png)  
 
 ## 5. Statistics  
-<img src="previewImages/Screenshot 2024-02-21 203036.png" alt="previews" width="250" />  
+![](./previewImages/Screenshot%202024-02-21%20203036.png)  
 
 ## PreviewImages for more...  
 
@@ -49,4 +49,4 @@
 
 # Demo  
 
-Demo video link: [Link to demo video](https://drive.google.com/file/d/1rL4p9SZfrcRLiDWL5ugG018qMnZMYFXr/view?usp=sharing)
+Demo video link: [Link to demo video](https://drive.google.com/file/d/1rL4p9SZfrcRLiDWL5ugG018qMnZMYFXr/view?usp=sharing)  

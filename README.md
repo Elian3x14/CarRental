@@ -53,13 +53,13 @@ Contains utility/helper classes
 
 Contain setting class for this application
 
-# How to Run the Code  
+## How to Run the Code  
 
 1. Open the `CarRental.sln` file  
 2. Update the `ConnectionString`  
 3. Import sample data from the `rentalCar.sql` file (if needed)  
 4. Click the "Run" button :3  
 
-# Demo  
+## Demo  
 
 Demo video link: [Link to demo video](https://drive.google.com/file/d/1rL4p9SZfrcRLiDWL5ugG018qMnZMYFXr/view?usp=sharing)  

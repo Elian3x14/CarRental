@@ -1,41 +1,63 @@
-# CarRental
-> Project giữa kỳ môn Công nghệ .Net
-# Preview
-## 1. Đăng nhập
-<img src="previewImages/Screenshot 2024-02-21 134642.png" alt="previews" width="250" />
+<!--title-->
 
-## 2. Danh sách xe
-<img src="previewImages/Screenshot 2024-02-21 202934.png" alt="previews" width="250" />
+# Hệ Thống Quản Lý Thuê Xe: Từ Đặt Chỗ Đến Trả Xe
 
-## 3. Tạo xe mới
-<img src="previewImages/Screenshot 2024-02-21 202949.png" alt="previews" width="250" />
+<!--/title-->
 
-## 4. Tạo đơn hàng
-<img src="previewImages/Screenshot 2024-02-21 203017.png" alt="previews" width="250" />
+Đồ án giữa kỳ môn Công nghệ .NET. Một hệ thống quản lý thuê xe toàn diện được xây dựng bằng C# và WinForms, hỗ trợ quy trình đặt xe, trả xe và quản lý khách hàng.
 
-## 5. Thống kê
-<img src="previewImages/Screenshot 2024-02-21 203036.png" alt="previews" width="250" />
+## Xem trước
 
-## PreviewImages for more.....
+### Đăng nhập
+![login](./previewImages/login-form.png)  
 
-# Project
-## 1. Đề bài trong thư mục doc
-## 2. Cấu trúc project
-### 2.1 Entities
-> Chức các đối tượng thực thể cần quản lý
-### 2.2 Exceptions
-> Chức các custom exception để xử lý
-### 2.3 Forms
-> Chức các form để thay đổi dữ liệu
-### 2.4 Helper
-> Chức các lớp hỗ trợ xử lý
-### 2.5 AppSetting.cs
+### Danh sách xe
+![list-car](./previewImages/car.png)  
 
-# Hướng dẫn chạy code
-1. Mở file CarRental.sln
-2. Sau đó đổi ConnectionString
-3. Có thể import dữ liệu mẫu từ file rentalCar.sql
-4. Ấn nút run :3
+### Thêm xe mới
+![add-car](./previewImages/car-add.png)  
 
-# Demo
-Link video demo: [Link video demo](https://drive.google.com/file/d/1rL4p9SZfrcRLiDWL5ugG018qMnZMYFXr/view?usp=sharing)
+### Tạo đơn thuê
+![booking-add](./previewImages/booking-add.png)    
+
+### Thống kê
+
+> Mình lỡ xóa dữ liệu mẫu, vui lòng tải về và nhập lại nhé. :3
+
+![report](./previewImages/report.png)  
+
+*Xem thêm trong thư mục PreviewImages...*  
+
+## Dự án
+
+### Đề bài
+
+(Có trong thư mục "doc")
+
+### Cấu trúc dự án
+
+#### Entities  
+Chứa các đối tượng thực thể cần quản lý  
+
+#### Exceptions  
+Chứa các ngoại lệ tự định nghĩa để xử lý lỗi  
+
+#### Forms  
+Chứa các form để thao tác dữ liệu  
+
+#### Helper  
+Chứa các lớp tiện ích/hỗ trợ  
+
+#### AppSetting.cs  
+Chứa lớp thiết lập cho ứng dụng này  
+
+## Cách chạy mã nguồn  
+
+1. Mở file `CarRental.sln`  
+2. Cập nhật `ConnectionString`  
+3. Nhập dữ liệu mẫu từ file `rentalCar.sql` (nếu cần)  
+4. Nhấn nút "Run" :3  
+
+## Demo  
+
+Link video demo: [Xem video demo](https://drive.google.com/file/d/1rL4p9SZfrcRLiDWL5ugG018qMnZMYFXr/view?usp=sharing)  

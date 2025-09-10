@@ -1,26 +1,26 @@
 <!--title-->
 
-# CarRental  
+# Car Rental Management: From Booking to Return
 
 <!--/title-->
 
 Midterm Project for .NET Technology  
 
-## Preview  
+## Preview
 
-### 1. Login  
+### Login
 ![login](./previewImages/login-form.png)  
 
-### 2. Car List  
+### Car List
 ![list-car](./previewImages/car.png)  
 
-### 3. Create a New Car  
+### Create a New Car
 ![add-car](./previewImages/car-add.png)  
 
-### 4. Create an Order  
+### Create an Order
 ![booking-add](./previewImages/booking-add.png)    
 
-### 5. Statistics  
+### Statistics
 
 > I accidentally deleted the sample data, please download it and add it back. :3
 
@@ -28,28 +28,28 @@ Midterm Project for .NET Technology
 
 *PreviewImages for more...*  
 
-## Project  
+## Project
 
-### 1. Problem Statement   
+### Problem Statement
 
 (Available in the "doc" folder)
 
-### 2. Project Structure  
+### Project Structure
 
-#### 2.1 Entities  
+#### Entities
 
 Contains the entity objects to be managed  
 
-#### 2.2 Exceptions  
+#### Exceptions
 Contains custom exceptions for handling errors  
 
-#### 2.3 Forms  
+#### Forms
 Contains forms for modifying data  
 
-#### 2.4 Helper  
+#### Helper
 Contains utility/helper classes  
 
-#### 2.5 AppSetting.cs  
+#### AppSetting.cs
 
 Contain setting class for this application
 

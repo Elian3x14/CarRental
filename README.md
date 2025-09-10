@@ -4,7 +4,7 @@
 
 <!--/title-->
 
-Midterm Project for .NET Technology  
+Midterm Project for .NET Technology. A comprehensive Car Rental Management System built with C# and WinForms, streamlining bookings, returns, and customer management.
 
 ## Preview
 
